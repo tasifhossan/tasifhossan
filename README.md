@@ -4,8 +4,8 @@
 Full-Stack Developer & UI/UX Designer passionate about building apps that solve real problems.
 
 ## Skills
-- **Frontend:** HTML, CSS, Bootstrap, JS
-- **Backend:** PHP, MySQL
+- **Frontend:** HTML, CSS, Bootstrap, JS, Jquery, React
+- **Backend:** PHP, MySQL, Nodejs
 - **Design:** Figma, Adobe XD
 
 ## Projects
