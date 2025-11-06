@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Tasif 👋
 
-<!--
-**tasifhossan/tasifhossan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Full-Stack Developer & UI/UX Designer passionate about building apps that solve real problems.
 
-Here are some ideas to get you started:
+## Skills
+- **Frontend:** HTML, CSS, Bootstrap, JS
+- **Backend:** PHP, MySQL
+- **Design:** Figma, Adobe XD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [School Management System]([link](https://github.com/tasifhossan/school_management_system/tree/master))
+- [E-commerce Website]([link](https://tasifhossan.github.io/LandMarkBD/))
+
+## Connect with me
+[LinkedIn](https://www.linkedin.com/in/tasifhossan/) | [Portfolio](https://tasif-portfolio.vercel.app/)
