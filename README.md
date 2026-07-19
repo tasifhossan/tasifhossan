@@ -3,7 +3,7 @@
 <!-- Replace with your generated banner image once ready -->
 <img src="./banner/github_banner.png" alt="Farhad's GitHub Banner" width="100%" />
 
-# Hi 👋, I'm Farhad
+# Hi 👋, I'm Tasif
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=CSE+Student+%40+IIUC;Full-Stack+%2F+Backend+Developer;Building+Full-Stack+Systems;Node.js+%2B+TypeScript+%2B+PostgreSQL" alt="Typing SVG" />
