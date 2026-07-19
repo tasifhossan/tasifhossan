@@ -1,16 +1,105 @@
-# Hi, I'm Tasif 👋
+<div align="center">
 
-## About Me
-Full-Stack Developer & UI/UX Designer passionate about building apps that solve real problems.
+<!-- Replace with your generated banner image once ready -->
+<img src="./banner/github_banner.png" alt="Farhad's GitHub Banner" width="100%" />
 
-## Skills
-- **Frontend:** HTML, CSS, Bootstrap, JS, Jquery, React
-- **Backend:** PHP, MySQL, Nodejs
-- **Design:** Figma, Adobe XD
+# Hi 👋, I'm Farhad
 
-## Projects
-- [School Management System]([link](https://github.com/tasifhossan/school_management_system/tree/master))
-- [E-commerce Website]([link](https://tasifhossan.github.io/LandMarkBD/))
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=CSE+Student+%40+IIUC;Full-Stack+%2F+Backend+Developer;Building+Full-Stack+Systems;Node.js+%2B+TypeScript+%2B+PostgreSQL" alt="Typing SVG" />
+</a>
 
-## Connect with me
-[LinkedIn](https://www.linkedin.com/in/tasifhossan/) | [Portfolio](https://tasif-portfolio.vercel.app/)
+</div>
+
+- 🎓 CSE student at **International Islamic University Chittagong (IIUC)**, Bangladesh
+- 🖥️ Currently building **MuniFix Ctg** — an intelligent citizen complaint reporting system, where I own **AI integration (Gemini API)**
+- 🗄️ Backend stack: **Node.js, Express.js, TypeScript, PostgreSQL, Prisma**
+- 🎨 Frontend stack: **Next.js**
+- 🛠️ Also comfortable with **JWT auth, Zod validation, SSLCommerz payments, Cloudinary, Nodemailer**
+- 💬 Ask me about **REST API design, backend architecture, or AI integration in web apps**
+- 📌 Recent project: **[FixItNow](https://github.com/tasifhossan/FixItNow)** — a home services marketplace API (deployed on Render)
+- 🌱 Currently sharpening: **AI/ML fundamentals, system design, and freelance UI/UX work**
+- 📫 Reach me: **tasifhossan@gmail.com**
+
+---
+
+### 🌐 Follow me on socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tasifhossan/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a href="https://github.com/tasifhossan" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="github" /></a>
+  <a href="https://tasif-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+</p>
+
+---
+
+### 🧰 Technology Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools & Deployment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 🐍 GitHub Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tasifhossan/tasifhossan/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tasifhossan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasifhossan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasifhossan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tasifhossan&label=Profile%20views&color=2B90FF&style=flat" alt="tasifhossan" />
+</p>
