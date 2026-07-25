@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace with your generated banner image once ready -->
-<img src="./banner/github_banner.png" alt="Farhad's GitHub Banner" width="100%" />
+<img src="./banner/github_banner.png" alt="Tasif Hossan's GitHub Banner" width="100%" />
 
 # Hi 👋, I'm Tasif Hossan
 
@@ -12,14 +12,41 @@
 </div>
 
 - 🎓 CSE student at **International Islamic University Chittagong (IIUC)**, Bangladesh
-- 🖥️ Currently building **MuniFix Ctg** — an intelligent citizen complaint reporting system, where I own **AI integration (Gemini API)**
 - 🗄️ Backend stack: **Node.js, Express.js, TypeScript, PostgreSQL, Prisma**
 - 🎨 Frontend stack: **Next.js**
 - 🛠️ Also comfortable with **JWT auth, Zod validation, SSLCommerz payments, Cloudinary, Nodemailer**
 - 💬 Ask me about **REST API design, backend architecture, or AI integration in web apps**
-- 📌 Recent project: **[FixItNow](https://github.com/tasifhossan/FixItNow)** — a home services marketplace API (deployed on Render)
 - 🌱 Currently sharpening: **AI/ML fundamentals, system design, and freelance UI/UX work**
 - 📫 Reach me: **tasifhossan@gmail.com**
+
+---
+
+### 🚧 Currently Working On
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🏙️ <a href="https://github.com/tasifhossan/MuniFix">MuniFix Ctg</a></h4>
+      <p>An intelligent citizen complaint reporting system for city services — multi-role platform (Citizen / Field Worker / Department Admin / Super Admin) with AI-assisted complaint triage.</p>
+      <p><b>My role:</b> Project Lead, AI Integration (Gemini API) & Frontend-Backend Integration</p>
+      <p><b>Stack:</b> Next.js · Express.js · PostgreSQL · Prisma · Gemini API</p>
+      <p>🔄 <i>Currently integrating frontend and backend</i></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>📚 <a href="https://github.com/tasifhossan/eduflow-frontend">EduFlow</a></h4>
+      <p>A learning management system for course delivery, enrollment, and academic workflows.</p>
+      <p><b>Repos:</b> <a href="https://github.com/tasifhossan/eduflow-frontend">frontend</a> · <a href="https://github.com/tasifhossan/eduflow-backend">backend</a></p>
+      <p><b>Stack:</b> Next.js · Node.js · Express.js · TypeScript · PostgreSQL · Prisma</p>
+      <p><b>Live:</b> <a href="https://eduflow-frontend-ten.vercel.app">eduflow-frontend-ten.vercel.app</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🛠️ <a href="https://github.com/tasifhossan/FixItNow">FixItNow</a></h4>
+      <p>A full-featured home services marketplace API — booking, provider management, and secure payments.</p>
+      <p><b>Stack:</b> Node.js · Express.js · TypeScript · Prisma · PostgreSQL · SSLCommerz</p>
+      <p><b>Deployed:</b> Render</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -82,12 +109,12 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tasifhossan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasifhossan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" height="165"/>
+  <img src="https://helio-github-stats.vercel.app/api?username=tasifhossan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
+  <img src="https://helio-github-stats.vercel.app/api/top-langs/?username=tasifhossan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasifhossan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-streak-stats-ruby.vercel.app/?user=tasifhossan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
