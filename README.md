@@ -106,17 +106,16 @@
   <img src="https://raw.githubusercontent.com/tasifhossan/tasifhossan/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
+
 ### 📊 GitHub Statistics
-
+ 
 <p align="center">
-  <img src="https://helio-github-stats.vercel.app/api?username=tasifhossan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
-  <img src="https://helio-github-stats.vercel.app/api/top-langs/?username=tasifhossan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" height="165"/>
+  <img src="https://github-stats-extended-frontend-ashy-ten.vercel.app/api?username=tasifhossan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended-frontend-ashy-ten.vercel.app/api/top-langs/?username=tasifhossan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" height="165"/>
 </p>
-
 <p align="center">
   <img src="https://github-streak-stats-ruby.vercel.app/?user=tasifhossan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 💬 Random Dev Quote
